@@ -4,4 +4,4 @@ i created a repo and added index.html file AND style.css file and enabled the se
 link mentained below
  website page:-  https://kummarikavya72.github.io/static-webpage/    
   output image :- ![image](https://github.com/user-attachments/assets/ce3f4c29-fb9b-4c46-848f-d47d028784b2)
-
+we have other alternative way to its from vscode we write code there and we can directky push them to git repo.
